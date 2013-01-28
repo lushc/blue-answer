@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+	<quizNumber>1</quizNumber>
+	<quizTitle>Computer Science Concepts - Test 1</quizTitle>
+	<questions>
+		<question>
+			<questNumber>1</questNumber>
+			<questText>List three major units of a computer.</questText>
+			<answers>
+				<answer>
+					<ansNumber>1</ansNumber>
+					<ansText>keyboard, memory, and CPU</ansText>
+				</answer>
+				<answer>
+					<ansNumber>2</ansNumber>
+					<ansText>memory, arithmetic unit, and control unit</ansText>
+				</answer>
+				<answer>
+					<ansNumber>3</ansNumber>
+					<ansText>RAM, hard disk, and CPU</ansText>
+				</answer>
+				<answer>
+					<ansNumber>4</ansNumber>
+					<ansText>memory, screen, and CPU</ansText>
+				</answer>
+				<correctAnsNumber>2</correctAnsNumber>
+			</answers>
+		</question>
+		<question>
+			<questNumber>2</questNumber>
+			<questText>What does ASCII stand for?</questText>
+			<answers>
+				<answer>
+					<ansNumber>1</ansNumber>
+					<ansText>Artificial Source Coding 20</ansText>
+				</answer>
+				<answer>
+					<ansNumber>2</ansNumber>
+					<ansText>Association of Standard Code for Information Interchange</ansText>
+				</answer>
+				<answer>
+					<ansNumber>3</ansNumber>
+					<ansText>American Standard Code for Information Interchange</ansText>
+				</answer>
+				<answer>
+					<ansNumber>4</ansNumber>
+					<ansText>A Standard Code for Information Interchange</ansText>
+				</answer>
+				<correctAnsNumber>3</correctAnsNumber>
+			</answers>
+		</question>
+		<question>
+			<questNumber>3</questNumber>
+			<questText>How is 31 represented as a binary number?</questText>
+			<answers>
+				<answer>
+					<ansNumber>1</ansNumber>
+					<ansText>11111</ansText>
+				</answer>
+				<answer>
+					<ansNumber>2</ansNumber>
+					<ansText>11001</ansText>
+				</answer>
+				<answer>
+					<ansNumber>3</ansNumber>
+					<ansText>01101</ansText>
+				</answer>
+				<answer>
+					<ansNumber>4</ansNumber>
+					<ansText>10001</ansText>
+				</answer>
+				<correctAnsNumber>1</correctAnsNumber>
+			</answers>
+		</question>
+		<question>
+			<questNumber>4</questNumber>
+			<questText>Separate the following four words so that the similar words are in one group - recursive iterative inductive repeat</questText>
+			<answers>
+				<answer>
+					<ansNumber>1</ansNumber>
+					<ansText>{recursive, iterative} and {inductive, repeat}</ansText>
+				</answer>
+				<answer>
+					<ansNumber>2</ansNumber>
+					<ansText>{recursive, inductive) and {iterative, repeat}</ansText>
+				</answer>
+				<answer>
+					<ansNumber>3</ansNumber>
+					<ansText>{recursive, repeat} and {inductive, iterative}</ansText>
+				</answer>
+				<answer>
+					<ansNumber>4</ansNumber>
+					<ansText>{recursive} and {iterative, inductive, repeat}</ansText>
+				</answer>
+				<correctAnsNumber>2</correctAnsNumber>
+			</answers>
+		</question>
+		<question>
+			<questNumber>5</questNumber>
+			<questText>You are asked to open a book on a particular page, say page 153. Which of the following methods do you think is the quickest?</questText>
+			<answers>
+				<answer>
+					<ansNumber>1</ansNumber>
+					<ansText>simply flipping from the back of the book until the page is found</ansText>
+				</answer>
+				<answer>
+					<ansNumber>2</ansNumber>
+					<ansText>opening the middle of book, then flipping backwards or forward depending on whether the middle page is less or greater than 153</ansText>
+				</answer>
+				<answer>
+					<ansNumber>3</ansNumber>
+					<ansText>randomly opening the book, then flipping backwards or forward depending on whether the opened page is less or greater than 153</ansText>
+				</answer>
+				<answer>
+					<ansNumber>4</ansNumber>
+					<ansText>checking how thick the book is, and roughly working out where 153 should be, then flipping around there</ansText>
+				</answer>
+				<correctAnsNumber>4</correctAnsNumber>
+			</answers>
+		</question>
+	</questions>
+</quiz>

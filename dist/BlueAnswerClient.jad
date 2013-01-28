@@ -1,0 +1,8 @@
+MIDlet-1: BlueAnswer,,lushc.logic.BlueAnswerMIDlet
+MIDlet-Jar-Size: 391980
+MIDlet-Jar-URL: BlueAnswerClient.jar
+MIDlet-Name: BlueAnswer
+MIDlet-Vendor: Chris Lush
+MIDlet-Version: 1.0.13
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

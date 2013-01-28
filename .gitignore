@@ -1,6 +1,8 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+.mtj.tmp
+.settings
+.classpath
+.fatjar
+.project
+.mtj
+client/bin/**
+server/bin/**
