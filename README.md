@@ -1,3 +1,22 @@
+Hello Chris,
+
+This is Ritesh from India, I am using your project in my final year project of my Engineering.
+I am very thankful to you as provided us your code. But we have small obstacle here, we are asked to record the response
+of the users who gives the exam and then provide a graph based on number of correct answers provided by users.
+
+Is there any possible way to contact you ? I am using skype as well as googleTalk.
+My skype ID - nnsjw702 and GoogleTalk - riteshpuj2013@gmail.com
+
+Please let me know the best way to contact you. I am really in need of your help.
+
+Please respond ASAP.
+
+Looking forward to your response.
+
+--
+Best Regards,
+Ritesh
+
 Blue Answer
 =========
 
